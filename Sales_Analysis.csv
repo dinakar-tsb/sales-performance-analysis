@@ -5999,3 +5999,4 @@ Order_ID,Order_Date,State,Region,Product,Category,Customer_Type,Quantity,Unit_Pr
 75998,13-09-2023,Washington,West,Monitor,Electronics,Retail,10,30508,305080,53568,18.77,UPI
 75999,31-07-2023,Illinois,Central,Laptop,Electronics,Retail,4,53700,214800,13469,5.09,UPI
 76000,12-02-2023,Wisconsin,Central,Monitor,Electronics,Corporate,8,30332,242656,65422,12.97,Debit Card
+
