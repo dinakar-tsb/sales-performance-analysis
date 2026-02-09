@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("Sales_Analytics.csv")
+df = pd.read_csv("Sales_Analysis.csv")
 print(df.shape)
 
 #Numbers of orders by state
@@ -92,4 +92,5 @@ sns.regplot(x = "Discount_%", y = "Profit", data=df , scatter_kws={"alpha":0.3})
 plt.title("Discount vs Profit")
 plt.xlabel("Discount Percentage")
 plt.ylabel("Profit")
+
 plt.show()
